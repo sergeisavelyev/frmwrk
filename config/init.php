@@ -7,7 +7,7 @@ define("CORE", ROOT . "/vendor/core");
 define("HELPERS", ROOT . "/vendor/core/helpers");
 define("CACHE", ROOT . "/tmp/cache");
 define("LOGS", ROOT . "/tmp/logs");
-define("CONFIG", ROOT . "/congig");
+define("CONFIG", ROOT . "/config");
 define("LAYOUT", ROOT . "layout");
 define("PATH", ROOT . "http://sitename");
 define("ADMIN", ROOT . "http://sitename/admin");
