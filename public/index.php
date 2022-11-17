@@ -10,4 +10,4 @@ require_once CONFIG . '/routes.php';
 
 new \core\App();
 
-debug(\core\Router::getRoutes());
+// debug(\core\Router::getRoutes());
