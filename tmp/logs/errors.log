@@ -136,3 +136,11 @@
 ====================
 [2022-11-17 14:26:58] Текст ошибки: preg_match(): Argument #2 ($subject) must be of type string, array given | Файл: D:\domains\frmwrk\vendor\core\Router.php | Строка: 51
 ====================
+[2022-11-18 11:05:29] Текст ошибки: Call to undefined method app\controllers\PageController::getModel() | Файл: D:\domains\frmwrk\vendor\core\Router.php | Строка: 32
+====================
+[2022-11-18 11:05:40] Текст ошибки: Undefined property: app\controllers\MainController::$route | Файл: D:\domains\frmwrk\vendor\core\Controller.php | Строка: 19
+====================
+[2022-11-18 11:05:40] Текст ошибки: Trying to access array offset on value of type null | Файл: D:\domains\frmwrk\vendor\core\Controller.php | Строка: 19
+====================
+[2022-11-18 11:07:02] Текст ошибки: Undefined variable $model | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 11
+====================

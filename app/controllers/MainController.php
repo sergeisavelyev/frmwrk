@@ -2,10 +2,11 @@
 
 namespace app\controllers;
 
-class MainController
+use core\Controller;
+
+class MainController extends Controller
 {
     public function indexAction()
     {
-        echo 'test';
     }
 }
