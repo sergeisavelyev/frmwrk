@@ -144,3 +144,49 @@
 ====================
 [2022-11-18 11:07:02] Текст ошибки: Undefined variable $model | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 11
 ====================
+[2022-11-18 13:08:25] Текст ошибки: Вид не найден: {$view_file} | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 30
+====================
+[2022-11-18 13:08:59] Текст ошибки: Вид не найден: {$view_file} | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 30
+====================
+[2022-11-18 13:09:00] Текст ошибки: Вид не найден: {$view_file} | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 30
+====================
+[2022-11-18 13:09:34] Текст ошибки: Вид не найден: {$view_file} | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 31
+====================
+[2022-11-18 13:09:53] Текст ошибки: Вид не найден: {$view_file} | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 31
+====================
+[2022-11-18 13:10:18] Текст ошибки: Вид не найден: {$view_file} | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 31
+====================
+[2022-11-18 13:10:22] Текст ошибки: Вид не найден: {$view_file} | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 31
+====================
+[2022-11-18 13:11:01] Текст ошибки: Вид не найден: app/views/Main/index.php | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 31
+====================
+[2022-11-18 13:11:22] Текст ошибки: Вид не найден: app/views/Main/index.php | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 31
+====================
+[2022-11-18 13:11:38] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: D:\domains\frmwrk\vendor\core\Router.php | Строка: 41
+====================
+[2022-11-18 13:11:47] Текст ошибки: Вид не найден: app/views/Main/index.php | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 31
+====================
+[2022-11-18 13:13:30] Текст ошибки: Вид не найден: D:\domains\frmwrk/appMain/index.php | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 31
+====================
+[2022-11-18 13:13:53] Текст ошибки: Вид не найден: D:\domains\frmwrk/app/Main/index.php | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 31
+====================
+[2022-11-18 13:14:54] Текст ошибки: Вид не найден: D:\domains\frmwrk/app/viewsMain/index.php | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 31
+====================
+[2022-11-18 13:16:50] Текст ошибки: Страница не найдена | Файл: D:\domains\frmwrk\vendor\core\Router.php | Строка: 44
+====================
+[2022-11-18 13:17:01] Текст ошибки: Страница не найдена | Файл: D:\domains\frmwrk\vendor\core\Router.php | Строка: 44
+====================
+[2022-11-18 13:17:25] Текст ошибки: Страница не найдена | Файл: D:\domains\frmwrk\vendor\core\Router.php | Строка: 44
+====================
+[2022-11-18 13:17:25] Текст ошибки: Страница не найдена | Файл: D:\domains\frmwrk\vendor\core\Router.php | Строка: 44
+====================
+[2022-11-18 13:17:30] Текст ошибки: Страница не найдена | Файл: D:\domains\frmwrk\vendor\core\Router.php | Строка: 44
+====================
+[2022-11-18 13:18:43] Текст ошибки: Страница не найдена | Файл: D:\domains\frmwrk\vendor\core\Router.php | Строка: 44
+====================
+[2022-11-18 13:24:01] Текст ошибки: Не найден шаблон вида D:\domains\frmwrk/app/views/layouts/D:\domains\frmwrklayout.php | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 39
+====================
+[2022-11-18 13:25:22] Текст ошибки: Не найден шаблон вида D:\domains\frmwrk/app/views/layouts/D:\domains\frmwrkdefault.php | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 39
+====================
+[2022-11-18 13:26:24] Текст ошибки: Object of class core\View could not be converted to string | Файл: D:\domains\frmwrk\app\views\layouts\default.php | Строка: 18
+====================
