@@ -190,3 +190,97 @@
 ====================
 [2022-11-18 13:26:24] Текст ошибки: Object of class core\View could not be converted to string | Файл: D:\domains\frmwrk\app\views\layouts\default.php | Строка: 18
 ====================
+[2022-11-18 15:18:41] Текст ошибки: Undefined array key "title" | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 46
+====================
+[2022-11-18 15:18:41] Текст ошибки: Undefined array key "title" | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 47
+====================
+[2022-11-18 15:18:41] Текст ошибки: Undefined array key "keywords" | Файл: D:\domains\frmwrk\vendor\core\View.php | Строка: 48
+====================
+[2022-11-18 16:57:50] Текст ошибки: Access to undeclared static property core\Db::$db | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 21
+====================
+[2022-11-18 16:58:28] Текст ошибки: SQLSTATE[HY000] [2019] Unknown character set | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 16
+====================
+[2022-11-18 16:59:20] Текст ошибки: SQLSTATE[HY000] [2019] Unknown character set | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 16
+====================
+[2022-11-18 16:59:21] Текст ошибки: SQLSTATE[HY000] [2019] Unknown character set | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 16
+====================
+[2022-11-18 16:59:21] Текст ошибки: SQLSTATE[HY000] [2019] Unknown character set | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 16
+====================
+[2022-11-18 17:00:21] Текст ошибки: SQLSTATE[HY000] [2019] Unknown character set | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 16
+====================
+[2022-11-18 17:00:28] Текст ошибки: SQLSTATE[HY000] [2019] Unknown character set | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 16
+====================
+[2022-11-18 17:00:29] Текст ошибки: SQLSTATE[HY000] [2019] Unknown character set | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 16
+====================
+[2022-11-18 17:00:29] Текст ошибки: SQLSTATE[HY000] [2019] Unknown character set | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 16
+====================
+[2022-11-18 17:00:32] Текст ошибки: SQLSTATE[HY000] [2019] Unknown character set | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 16
+====================
+[2022-11-18 17:01:26] Текст ошибки: SQLSTATE[HY000] [2019] Unknown character set | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 17
+====================
+[2022-11-18 17:01:59] Текст ошибки: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 17
+====================
+[2022-11-18 17:02:32] Текст ошибки: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 17
+====================
+[2022-11-18 17:02:34] Текст ошибки: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 17
+====================
+[2022-11-18 17:04:26] Текст ошибки: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 17
+====================
+[2022-11-18 17:04:26] Текст ошибки: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 17
+====================
+[2022-11-18 17:04:27] Текст ошибки: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 17
+====================
+[2022-11-18 17:04:27] Текст ошибки: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 17
+====================
+[2022-11-18 17:05:09] Текст ошибки: syntax error, unexpected token "{", expecting ")" | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 17
+====================
+[2022-11-18 17:06:38] Текст ошибки: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 17
+====================
+[2022-11-18 17:07:42] Текст ошибки: Access to undeclared static property core\Db::$db | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 22
+====================
+[2022-11-18 17:09:28] Текст ошибки: Access to undeclared static property core\Db::$db | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 22
+====================
+[2022-11-19 10:23:25] Текст ошибки: Undefined property: app\controllers\MainController::$db | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 14
+====================
+[2022-11-19 10:23:25] Текст ошибки: Call to a member function column() on null | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 14
+====================
+[2022-11-19 10:23:38] Текст ошибки: Object of class core\Db could not be converted to string | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 14
+====================
+[2022-11-19 10:23:55] Текст ошибки: Object of class core\Db could not be converted to string | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 14
+====================
+[2022-11-19 10:23:56] Текст ошибки: Object of class core\Db could not be converted to string | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 14
+====================
+[2022-11-19 10:25:05] Текст ошибки: Object of class core\Db could not be converted to string | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 14
+====================
+[2022-11-19 10:25:06] Текст ошибки: Object of class core\Db could not be converted to string | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 14
+====================
+[2022-11-19 10:26:14] Текст ошибки: Object of class core\Db could not be converted to string | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 14
+====================
+[2022-11-19 10:26:15] Текст ошибки: Object of class core\Db could not be converted to string | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 14
+====================
+[2022-11-19 10:27:04] Текст ошибки: Object of class core\Db could not be converted to string | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 16
+====================
+[2022-11-19 10:27:16] Текст ошибки: Call to a member function column() on null | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 16
+====================
+[2022-11-19 10:28:14] Текст ошибки: Call to a member function column() on null | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 19
+====================
+[2022-11-19 10:28:15] Текст ошибки: Call to a member function column() on null | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 19
+====================
+[2022-11-19 10:29:58] Текст ошибки: Call to a member function column() on null | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 19
+====================
+[2022-11-19 10:29:59] Текст ошибки: Call to a member function column() on null | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 19
+====================
+[2022-11-19 10:38:26] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: D:\domains\frmwrk\vendor\core\Db.php | Строка: 30
+====================
+[2022-11-19 10:38:26] Текст ошибки: Uncaught TypeError: http_response_code(): Argument #1 ($response_code) must be of type int, string given in D:\domains\frmwrk\vendor\core\ErrorHandler.php:58
+Stack trace:
+#0 D:\domains\frmwrk\vendor\core\ErrorHandler.php(58): http_response_code()
+#1 D:\domains\frmwrk\vendor\core\ErrorHandler.php(23): core\ErrorHandler->displayError()
+#2 [internal function]: core\ErrorHandler->exceptionHandler()
+#3 {main}
+  thrown | Файл: D:\domains\frmwrk\vendor\core\ErrorHandler.php | Строка: 58
+====================
+[2022-11-19 10:47:03] Текст ошибки: Call to undefined method app\models\Main::getName() | Файл: D:\domains\frmwrk\app\controllers\MainController.php | Строка: 12
+====================
+[2022-11-19 10:48:32] Текст ошибки: Call to undefined method app\models\Main::db() | Файл: D:\domains\frmwrk\app\models\Main.php | Строка: 11
+====================
